@@ -69,6 +69,7 @@ Final Excel Dashboard
 - Sales breakdowns
 - Top & bottom products
 ```
+![Pizza Sales Dashboard]()
 
 
 All dashboard insights are traceable back to the original CSV data through SQL logic.
