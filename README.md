@@ -7,8 +7,17 @@ The project follows a clear, reproducible workflow from raw data to final report
 
 ---
 
+## Project Files
+
+- [Raw Dataset (CSV)](pizza_sales.csv)
+- [Excel Dashboard](pizza_sales_Dashboard.xlsx)
+- [SQL Quries](pizza_sales.sql)
+- [SQL Quries_with_result](pizza_sales_SQL_queries_with_result.docx)
+
+---
+
 ## Dataset Description
-- **Source**: CSV file (`pizza_sales.csv`)
+- **Source**: CSV file ![Pizza_sales_raw_csv](pizza_sales_raw.csv)
 - **Records**: ~48,000 transaction-level rows
 - **Time Period**: One year of sales data
 - **Granularity**: One row per pizza item within an order
@@ -69,7 +78,7 @@ Final Excel Dashboard
 - Sales breakdowns
 - Top & bottom products
 ```
-![Pizza Sales Dashboard]()
+![Pizza Sales Dashboard](Pizza_Sales_Dashboard_image.png)
 
 
 All dashboard insights are traceable back to the original CSV data through SQL logic.
@@ -128,3 +137,16 @@ Slicers allow interactive exploration while maintaining consistency with SQL res
 ---
 
 It demonstrates foundational data analysis skills using SQL and Excel.
+
+---
+
+## 📬 Connect With Me
+## 📜 Author
+
+**👤 Chandrasekhar Panda**\
+💼 MBA Business Analytics | Passionate about Data Analytics\
+📧 [chandrasekharpanda304@gmail.com](mailto:chandrasekharpanda304@gmail.com)\
+🔗 [LinkedIn](https://www.linkedin.com/in/chandrasekharpanda)\
+🔗 [Portfolio](https://chandrasekharpanda.netlify.app/)
+
+
